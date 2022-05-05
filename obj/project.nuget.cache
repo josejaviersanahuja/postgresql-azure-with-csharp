@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "V4DzRhVadnnzPgaZ+cFggHZEUYi7ZTrR4lLB2BsSIK/DWswk/SsrJp4xqWx9gibCWqSMFrECJ0suIFrWPXWPwQ==",
+  "success": true,
+  "projectFilePath": "/home/zitrojj/dev/postgresql-azure-with-csharp/postgresql-azure-with-csharp.csproj",
+  "expectedPackageFiles": [
+    "/home/zitrojj/.nuget/packages/microsoft.extensions.configuration/6.0.0/microsoft.extensions.configuration.6.0.0.nupkg.sha512",
+    "/home/zitrojj/.nuget/packages/microsoft.extensions.configuration.abstractions/6.0.0/microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "/home/zitrojj/.nuget/packages/microsoft.extensions.configuration.fileextensions/6.0.0/microsoft.extensions.configuration.fileextensions.6.0.0.nupkg.sha512",
+    "/home/zitrojj/.nuget/packages/microsoft.extensions.configuration.json/6.0.0/microsoft.extensions.configuration.json.6.0.0.nupkg.sha512",
+    "/home/zitrojj/.nuget/packages/microsoft.extensions.fileproviders.abstractions/6.0.0/microsoft.extensions.fileproviders.abstractions.6.0.0.nupkg.sha512",
+    "/home/zitrojj/.nuget/packages/microsoft.extensions.fileproviders.physical/6.0.0/microsoft.extensions.fileproviders.physical.6.0.0.nupkg.sha512",
+    "/home/zitrojj/.nuget/packages/microsoft.extensions.filesystemglobbing/6.0.0/microsoft.extensions.filesystemglobbing.6.0.0.nupkg.sha512",
+    "/home/zitrojj/.nuget/packages/microsoft.extensions.primitives/6.0.0/microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "/home/zitrojj/.nuget/packages/npgsql/6.0.4/npgsql.6.0.4.nupkg.sha512",
+    "/home/zitrojj/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/home/zitrojj/.nuget/packages/system.text.encodings.web/6.0.0/system.text.encodings.web.6.0.0.nupkg.sha512",
+    "/home/zitrojj/.nuget/packages/system.text.json/6.0.0/system.text.json.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
